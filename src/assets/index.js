@@ -21,6 +21,7 @@ import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 
+import alpha from "./company/alpha.png";
 import corparques from "./company/corparques.png";
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -53,6 +54,7 @@ export {
   tailwind,
   typescript,
   threejs,
+  alpha,
   corparques,
   meta,
   shopify,

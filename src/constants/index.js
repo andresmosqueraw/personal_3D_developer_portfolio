@@ -24,6 +24,7 @@ import {
   tripguide,
   threejs,
   corparques,
+  alpha,
 } from "../assets";
 
 export const navLinks = [
@@ -120,7 +121,7 @@ const experiences = [
     title: "Software Engineering Intern",
     company_name: "Corparques",
     icon: corparques,
-    iconBg: "#383E56",
+    iconBg: "#fff",
     date: "May 2022 - July 2022",
     points: [
       "Design and develop a search engine using JavaScript, HTML5, CSS3 and JQuery to make more effective searches on Mundo Aventura's internal website used by 50 employees.",
@@ -130,32 +131,32 @@ const experiences = [
     ],
   },
   {
-    title: "React Native Developer",
-    company_name: "Tesla",
-    icon: tesla,
-    iconBg: "#E6DEDD",
-    date: "Jan 2021 - Feb 2022",
+    title: "Software Engineer",
+    company_name: "alpha",
+    icon: alpha,
+    iconBg: "#fff",
+    date: "Oct 2022 - Mar 2023",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Manage Skaphe's database containing 10 terabytes of information for the project with the Colombia's Judicial Branch and send reports and data analysis using SQL and Azure.",
+      "Developed the company's website using JavaScript, JQuery, HTML5 and CSS to give visibility to the company.",
     ],
   },
   {
-    title: "Web Developer",
-    company_name: "Shopify",
+    title: "Software Engineer",
+    company_name: "Coplanin",
     icon: shopify,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "April 2023 - Feb 2024",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Develop the second version of a mobile application for the company Acueducto y Alcantarillado de Bogotá using Android and Java, aimed at creating forms for managing and maintaining water distribution networks, to be used by 500 users.",
+      "Provide mentoring and technical leadership to two team members to deliver the application twice as fast, focusing on the frontend and API requests.",
+      "Design the model of a relational database to manage the contracts made by the Government of Cundinamarca with other companies using PostgreSQL, catering to approximately 100 contracts per year.",
+      "Develop the front end of the official website of the Gobernación de Cundinamarca to display the contracts using HTML, JavaScript, CSS, Bootstrap, jQuery, and AJAX for an intuitive user interface. For the backend, we used Java and Spring Boot to create services.",
+      "Create and implement the automatic generation of PDF documents using iTextPDF and Spring Boot to instantly create contract receipts with the information provided by the user.",
+      "In both teams, I write documentation for the code for future developments, use GIT, GitHub, and GitLab for version control, and employ agile methodologies tools such as Kanban and Scrum, all to accelerate productivity in development.",
     ],
   },
-  {
+  /*{
     title: "Full stack Developer",
     company_name: "Meta",
     icon: meta,
@@ -167,7 +168,7 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
-  },
+  },*/
 ];
 
 const testimonials = [
